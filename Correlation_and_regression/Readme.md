@@ -30,9 +30,9 @@ $$Y = a + bX $$
 where,
 - *b* is the slope of the regression line and 
 is given by:
-$$ b = {n\sum(XY) - \sum X \sum Y \over n\sum X^2 - (\sum X)^2}$$
+$$b={n\sum(XY)-\sum X\sum Y\over n\sum X^2-(\sum X)^2}$$
 - *a* is the y-intercept, which is calculated using:
-$$a = {{\sum Y \over n} - b{\sum X \over n} } $$
+$$a={{\sum Y\over n}-b{\sum X\over n}}$$
 
 Once we find the regression line, we can substitute
 *X* = 10 to predict the corresponding value of *Y*.
